@@ -318,9 +318,9 @@ export function getRootHtml() {
     </form>
 
     <div class="card-footer">
-      <span class="feature">🔒 安全代理</span>
-      <span class="feature">⚡ 自动修复</span>
-      <span class="feature">📱 响应式设计</span>
+      <span class="feature">🔰 安全代理</span>
+      <span class="feature">♻️ 自动修复</span>
+      <span class="feature">🔆 响应式设计</span>
     </div>
   </div>
 
