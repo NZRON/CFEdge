@@ -293,7 +293,7 @@ export function getRootHtml() {
 </head>
 <body>
   <div class="glass-card">
-    <button class="theme-btn" id="themeToggle" aria-label="切换主题">🌙</button>
+    <button class="theme-btn" id="themeToggle" aria-label="切换主题">✨</button>
     
     <div class="card-header">
       <div class="card-icon">
@@ -342,7 +342,7 @@ export function getRootHtml() {
     });
 
     function updateThemeButtonIcon(theme) {
-      themeToggle.textContent = theme === 'dark' ? '🌙' : '☀️';
+      themeToggle.textContent = theme === 'dark' ? '☀️' : '✨';
     }
 
     document.getElementById('urlForm').addEventListener('submit', function(e) {
